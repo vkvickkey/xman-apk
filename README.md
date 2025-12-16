@@ -129,23 +129,6 @@ Use, modify, and distribute freely — with credit to the original author.
 
 ---
 
-## 📞 Contact
-
-👨‍💻 Developed with ❤️ by HARSH PATEL 
-
-🌐 GitHub: [patelharsh80874](https://github.com/patelharsh80874)  
-📧 Email: [patelharsh80874@yahoo.com](mailto:patelharsh80874@yahoo.com)   
-🌐 Instagram: [patelharsh.in](https://www.instagram.com/patelharsh.in)
-
----
-
-## 🌟 Acknowledgements
-
-- 🎵 [JioSaavn API (Unofficial)](https://saavn.sumit.co) for music data
-- 💻 React Native Community
-
----
-
 **This README provides a complete reference and setup guide for The Ultimate Songs App, built for learning and demo purposes.**
 
 ---
